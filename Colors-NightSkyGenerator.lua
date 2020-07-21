@@ -278,9 +278,9 @@ print("If it stops slightly before or after 100%, don't worry about it. It's wor
 NMS_MOD_DEFINITION_CONTAINER =
 {
   ["MOD_FILENAME"] 			= "_CodenameAwesome.NightSkyColors.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "",         --optional, for reference
+  ["MOD_DESCRIPTION"]		= "Generates tons of Night Sky colors and adds them to the game.",         --optional, for reference
   ["MOD_AUTHOR"]				= "",         --optional, for reference
-  ["NMS_VERSION"]				= "2.0",     --optional, for reference
+  ["NMS_VERSION"]				= "",     --optional, for reference
   ["MODIFICATIONS"] 		=             --REQUIRED SECTION
 	{
 		{

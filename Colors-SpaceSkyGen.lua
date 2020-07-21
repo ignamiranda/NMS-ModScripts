@@ -261,7 +261,7 @@ all_string = table.concat(all_stringTable)
 NMS_MOD_DEFINITION_CONTAINER =
 {
   ["MOD_FILENAME"] 			= "_CodenameAwesome.SpaceSkyColours.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "",         --optional, for reference
+  ["MOD_DESCRIPTION"]		= "Generates tons of Space Sky colors and adds them to the game.",         --optional, for reference
   ["MOD_AUTHOR"]				= "",         --optional, for reference
   ["NMS_VERSION"]				= "2.0",     --optional, for reference
   ["MODIFICATIONS"] 		=             --REQUIRED SECTION

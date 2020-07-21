@@ -2,8 +2,8 @@ NMS_MOD_DEFINITION_CONTAINER =
 {
 ["MOD_FILENAME"] 			= "_CodenameAwesome.FasterPulse.pak", 
 ["MOD_AUTHOR"]				= "CodenameAwesome",
-["NMS_VERSION"]				= "2.33",
-["MOD_DESCRIPTION"]			= "",
+["NMS_VERSION"]				= "",
+["MOD_DESCRIPTION"]			= "Increases the speed of your pulse drive. Space travel is boring.",
 ["MODIFICATIONS"] 			= 
 	{
 		{

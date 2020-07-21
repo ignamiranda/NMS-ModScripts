@@ -3,7 +3,7 @@
 NMS_MOD_DEFINITION_CONTAINER =
 {
   ["MOD_FILENAME"] 			= "_CodenameAwesome.ActivatedColourPalettes.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "",         --optional, for reference
+  ["MOD_DESCRIPTION"]		= "Reactivates old color palettes that were disabled in the game with the NEXT update.",         --optional, for reference
   ["MOD_AUTHOR"]				= "",         --optional, for reference
   ["NMS_VERSION"]				= "2.0",     --optional, for reference
   ["MODIFICATIONS"] 		=             --REQUIRED SECTION

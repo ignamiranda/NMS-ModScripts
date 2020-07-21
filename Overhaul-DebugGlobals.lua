@@ -3,7 +3,7 @@
 NMS_MOD_DEFINITION_CONTAINER = --This script currently has no effect
 {
   ["MOD_FILENAME"] 			= "_CodenameAwesome.DebugGlobals.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "",         --optional, for reference
+  ["MOD_DESCRIPTION"]		= "Some convenience settings like SkipLogos and MultiplePlayerFreightersInASystem. Currenly doesn't work.",         --optional, for reference
   ["MOD_AUTHOR"]				= "",         --optional, for reference
   ["NMS_VERSION"]				= "2.0",     --optional, for reference
   ["MODIFICATIONS"] 		=             --REQUIRED SECTION

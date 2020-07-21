@@ -132,7 +132,7 @@ print("Generated "..num_generated.." TileTypeSets")
 NMS_MOD_DEFINITION_CONTAINER =
 {
   ["MOD_FILENAME"] 			= "_CodenameAwesome.LushTileTypes.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "",         --optional, for reference
+  ["MOD_DESCRIPTION"]		= "Add variation to how ground colors are applied in the Lush biome. For example, the grass can now take colors from the Leaf palette as well.",         --optional, for reference
   ["MOD_AUTHOR"]				= "",         --optional, for reference
   ["NMS_VERSION"]				= "2.0",     --optional, for reference
   ["MODIFICATIONS"] 		=             --REQUIRED SECTION

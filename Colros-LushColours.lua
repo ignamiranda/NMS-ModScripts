@@ -130,7 +130,7 @@ for i = 1, num_palettes, 1
 NMS_MOD_DEFINITION_CONTAINER =
 {
   ["MOD_FILENAME"] 			= "_CodenameAwesome.LushColours.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "",         --optional, for reference
+  ["MOD_DESCRIPTION"]		= "Generates grass colors. Currently not implemented in the game.",         --optional, for reference
   ["MOD_AUTHOR"]			= "CodenameAwesome",         --optional, for reference
   ["NMS_VERSION"]			= "2.0",     --optional, for reference
   ["MODIFICATIONS"] 		=             --REQUIRED SECTION

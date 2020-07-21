@@ -1,9 +1,9 @@
 NMS_MOD_DEFINITION_CONTAINER =
 {
-  ["MOD_FILENAME"] 			= "AccurateBiomeNames.pak",     --the name of the pak created (if not combined) - REQUIRED
-  ["MOD_DESCRIPTION"]		= "",         --optional, for reference
+  ["MOD_FILENAME"] 			= "_CodenameAwesome.AccurateBiomeNames.pak",     --the name of the pak created (if not combined) - REQUIRED
+  ["MOD_DESCRIPTION"]		= "Changes biome names like 'Viridescent' and 'Tropical' to just say 'Lush' or their respective biome type. No more fake variation for planet types.",
   ["MOD_AUTHOR"]				= "",         --optional, for reference
-  ["NMS_VERSION"]				= "2.0",     --optional, for reference
+  ["NMS_VERSION"]				= "",     --optional, for reference
   ["MODIFICATIONS"] 		=             --REQUIRED SECTION
 	{
 		{
