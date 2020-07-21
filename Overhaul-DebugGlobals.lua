@@ -1,6 +1,6 @@
 --see also StandardSchemeExtended.lua
 
-NMS_MOD_DEFINITION_CONTAINER =
+NMS_MOD_DEFINITION_CONTAINER = --This script currently has no effect
 {
   ["MOD_FILENAME"] 			= "_CodenameAwesome.DebugGlobals.pak",     --the name of the pak created (if not combined) - REQUIRED
   ["MOD_DESCRIPTION"]		= "",         --optional, for reference
