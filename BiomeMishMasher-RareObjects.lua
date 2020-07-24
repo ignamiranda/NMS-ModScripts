@@ -362,8 +362,8 @@ NMS_MOD_DEFINITION_CONTAINER = --WARNING: Most, if not all, biomes in this mod a
 								{
 									--{"MinScale", QUADRUPLESPARSE_MULTIPLIER},
 									{"MaxScale", QUADRUPLESPARSE_MULTIPLIER},
-									{"FlatDensity", 1/QUADRUPLESPARSE_MULTIPLIER},
-									{"SlopeDensity", 1/QUADRUPLESPARSE_MULTIPLIER},
+									{"FlatDensity", 0.5/QUADRUPLESPARSE_MULTIPLIER},
+									{"SlopeDensity", 0.5/QUADRUPLESPARSE_MULTIPLIER},
 									{"Coverage", QUADRUPLESPARSE_MULTIPLIER},
 								}
 							}
