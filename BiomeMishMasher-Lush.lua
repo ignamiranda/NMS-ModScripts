@@ -5,7 +5,7 @@ GLOBAL_MINSCALE_MULTIPLIER = 1
 GLOBAL_MAXSCALE_MULTIPLIER = 1
 LANDMARKS_MAXSCALE_MULTIPLIER = 1.5
 GRASS_MINSCALE_MULTIPLIER = 1.25
-GRASS_MAXSCALE_MULTIPLIER = 1.5
+GRASS_MAXSCALE_MULTIPLIER = 1.25
 GRASS_DENSITY_MULTIPLIER = GRASS_MINSCALE_MULTIPLIER
 OGTREES_FADE_OUT_RADIUS_MULTIPLIER = 2
 FLOWERY_SCALE_MULTIPLIER = 1.1
@@ -434,19 +434,6 @@ NMS_MOD_DEFINITION_CONTAINER = --WARNING: Most, if not all, biomes in this mod a
 							},
 						},
 					},
-					{--Remove DistantObjects from Landmarks files that have them
-						["MBIN_FILE_SOURCE"] 	= {
-							"METADATA\SIMULATION\SOLARSYSTEM\BIOMES\SWAMP\LANDMARKS\SWAMPOBJECTSFULL.MBIN",
-							"METADATA\SIMULATION\SOLARSYSTEM\BIOMES\LUSH\LANDMARKS\LUSHBIGPROPSOBJECTSFULL.MBIN",
-							},
-						["EXML_CHANGE_TABLE"] 	= -- Remove everything but Objects>Landmarks
-						{
-							{
-								["PRECEDING_KEY_WORDS"] = {"Objects","DistantObjects",},----Change all of this
-								["REMOVE"] 	= "SECTION"
-							}
-						},
-					},
 					{--Fix up Objects files
 						["MBIN_FILE_SOURCE"] 	= {
 							"METADATA\SIMULATION\SOLARSYSTEM\BIOMES\SWAMP\OBJECTS\SWAMPOBJECTSFULL.MBIN",
@@ -535,7 +522,24 @@ NMS_MOD_DEFINITION_CONTAINER = --WARNING: Most, if not all, biomes in this mod a
 								["REMOVE"] 	= "SECTION"
 							},
 						},
-					},
+					},--[[Commenting this out. This decision kind of muddies the water unfortunately but now non-Huge biomes have DistantObjects which I'm treating as part of the Landmarks.
+					{--Remove DistantObjects from Landmarks files that have them
+						["MBIN_FILE_SOURCE"] 	= {
+							"METADATA\SIMULATION\SOLARSYSTEM\BIOMES\SWAMP\LANDMARKS\SWAMPOBJECTSFULL.MBIN",
+							"METADATA\SIMULATION\SOLARSYSTEM\BIOMES\SWAMP\OBJECTS\SWAMPOBJECTSFULL.MBIN",
+							"METADATA\SIMULATION\SOLARSYSTEM\BIOMES\SWAMP\DETAILOBJECTS\SWAMPOBJECTSFULL.MBIN",
+							"METADATA\SIMULATION\SOLARSYSTEM\BIOMES\LUSH\LANDMARKS\LUSHBIGPROPSOBJECTSFULL.MBIN",
+							"METADATA\SIMULATION\SOLARSYSTEM\BIOMES\LUSH\OBJECTS\LUSHBIGPROPSOBJECTSFULL.MBIN",
+							"METADATA\SIMULATION\SOLARSYSTEM\BIOMES\LUSH\DETAILOBJECTS\LUSHBIGPROPSOBJECTSFULL.MBIN",
+							},
+						["EXML_CHANGE_TABLE"] 	= -- Remove everything but Objects>Landmarks
+						{
+							{
+								["PRECEDING_KEY_WORDS"] = {"Objects","DistantObjects",},----Change all of this
+								["REMOVE"] 	= "SECTION"
+							}
+						},
+					},]]
 					--GRASS
 					--I want to handle grass entirely separately
 					{
@@ -1527,7 +1531,7 @@ NMS_MOD_DEFINITION_CONTAINER = --WARNING: Most, if not all, biomes in this mod a
 								["PRECEDING_KEY_WORDS"] = {"ExternalObjectLists"},
 								["ADD"] = DISTANTOBJECTS,
 							},
-							{ --Remove the Crystals. We're going to start handling this from the BIOMEFILENAMES.MBIN since all biomes have the same crystals.
+							{
 								["SPECIAL_KEY_WORDS"] = {"Name","DISTANTOBJECTS"},
 								["VALUE_CHANGE_TABLE"] = {
 									{"Probability", 1}
