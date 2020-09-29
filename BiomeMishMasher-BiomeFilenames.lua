@@ -28,100 +28,121 @@ ALL_BONUS_OBJECTS = [[    <Property value="GcExternalObjectFileList.xml">
             <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/ALPINEHQOBJECTSMID.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/ALPINEOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/BARRENHQOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/BARRENOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/BEAMSOBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/BONESPIREOBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/CONTOUROBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/DRIEDLUSHOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/ELBUBBLEOBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/FRACTCUBEOBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/FROZENHQOBJECTSMID.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/FROZENOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HEXAGONOBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGEFROZENOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGEFROZENRINGOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGEICESPIKEOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGERADIOOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGERADIORINGOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGERINGOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGEROCKOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGESCORCHOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGETOXICOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HUGEUWPLANTOBJECTS.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/HYDROGARDENOBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/IRRISHELLSOBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
+			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/LUSHHQTENTACLEOBJECTSFULL.MBIN" />
+			</Property>
+            <Property value="NMSString0x80.xml">
+			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/LUSHINFESTEDOBJECTS.MBIN" />
+			</Property>
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/LUSHOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
+			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/LUSHROCKYOBJECTS.MBIN" />
+			</Property>
+            <Property value="NMSString0x80.xml">
+			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/LUSHROCKYWEIRDOBJECTS.MBIN" />
+			</Property>
+            <Property value="NMSString0x80.xml">
+			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/LUSHROOMAOBJECTS.MBIN" />
+			</Property>
+            <Property value="NMSString0x80.xml">
+			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/LUSHROOMBOBJECTS.MBIN" />
+			</Property>
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/MSTRUCTOBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/OGLUSHOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/RADIOACTIVEOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/SCORCHEDOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/SHARDSOBJECTSDEAD.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
+			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/SWAMPOBJECTSFULL.MBIN" />
+			</Property>
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/TOXICOBJECTSFULL.MBIN" />
 			</Property>
-			<Property value="NMSString0x80.xml">
+            <Property value="NMSString0x80.xml">
 			  <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/BONUSOBJECTS/WIRECELLSOBJECTSDEAD.MBIN" />
 			</Property>
           </Property>
@@ -190,7 +211,16 @@ NMS_MOD_DEFINITION_CONTAINER = --WARNING: Most, if not all, biomes in this mod a
 							["VALUE_CHANGE_TABLE"] 	=
 							{
 								{ [[/LUSH/LUSHBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME.MXML"]] },
-								{ [[/LUSH/LUSHHQBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHHQBIOME.MXML"]] },
+								{ [[/LUSH/LUSHHQBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME-HQPALETTE.MXML"]] },
+								{ [[/LUSH/LUSHROOMABIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME-LUSHROOMAPALETTE.MXML"]] },
+								{ [[/LUSH/LUSHROOMBBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME-LUSHROOMBPALETTE.MXML"]] },
+								{ [[/LUSH/LUSHROCKYBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME.MXML"]] },
+								{ [[/LUSH/LUSHROCKYWEIRDBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME-ULTRAPALETTE.MXML"]] },
+								{ [[/LUSH/LUSHHQTENTACLEBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME.MXML"]] },
+								{ [[/LUSH/LUSHBUBBLESBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME-LUSHBUBBLESPALETTE.MXML"]] },
+								{ [[/LUSH/LUSHINFESTEDBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME.MXML"]] },
+								{ [[/LUSH/LUSHBIGPROPSBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME.MXML"]] },
+								{ [[/SWAMP/SWAMPBIOME.MXML"]],	[[/LUSH/MISHMASHLUSHBIOME-SWAMPPALETTE.MXML"]] },
 								{ [[/DEAD/DEADBIOME.MXML"]],	[[/DEAD/MISHMASHDEADBIOME.MXML"]] },
 								{ [[/TOXIC/TOXICBIOME.MXML"]],	[[/TOXIC/MISHMASHTOXICBIOME.MXML"]] },
 								{ [[/SCORCHED/SCORCHEDBIOME.MXML"]],	[[/SCORCHED/MISHMASHSCORCHEDBIOME.MXML"]] },
@@ -199,6 +229,12 @@ NMS_MOD_DEFINITION_CONTAINER = --WARNING: Most, if not all, biomes in this mod a
 								{ [[/FROZEN/FROZENHQBIOME.MXML"]],[[/FROZEN/MISHMASHFROZENHQBIOME.MXML"]] },
 								{ [[/BARREN/BARRENBIOME.MXML"]],[[/BARREN/MISHMASHBARRENBIOME.MXML"]] },
 								{ [[/BARREN/BARRENHQBIOME.MXML"]],[[/BARREN/MISHMASHBARRENBIOME.MXML"]] },
+								{ [[/BARREN/BARRENHIVESBIOME.MXML"]],[[/BARREN/MISHMASHBARRENBIOME.MXML"]] },
+								{ [[/BARREN/BARRENROCKYBIOME.MXML"]],[[/BARREN/MISHMASHBARRENBIOME.MXML"]] },
+								{ [[/BARREN/BARRENROCKYWEIRDBIOME.MXML"]],[[/BARREN/MISHMASHBARRENBIOME.MXML"]] },
+								{ [[/BARREN/BARRENCORALBIOME.MXML"]],[[/BARREN/MISHMASHBARRENBIOME.MXML"]] },
+								{ [[/BARREN/BARRENINFESTEDBIOME.MXML"]],[[/BARREN/MISHMASHBARRENBIOME.MXML"]] },
+								{ [[/BARREN/BARRENBIGPROPSBIOME.MXML"]],[[/BARREN/MISHMASHBARRENBIOME.MXML"]] },
 								{ [[/WEIRD/HYDROGARDEN/HYDROGARDENBIOME.MXML"]],[[/WEIRD/HYDROGARDEN/MISHMASHHYDROGARDENBIOME.MXML"]] },
 								{ [[/HUGEPROPS/HUGEROCK/HUGEROCKBIOME.MXML"]],[[/HUGEPROPS/MISHMASHHUGEBARRENBIOME.MXML"]] },
 								{ [[/HUGEPROPS/HUGERING/HUGERINGBIOME.MXML"]],[[/HUGEPROPS/MISHMASHHUGEFROZENBIOME.MXML"]] },
