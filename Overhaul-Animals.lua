@@ -1,12 +1,12 @@
 --see also StandardSchemeExtended.lua
-MIN_SCALE_MULTIPLIER = 1/1.5
+MIN_SCALE_MULTIPLIER = 1/3.5
 MAX_SCALE_MULTIPLIER = 1.5
 NMS_MOD_DEFINITION_CONTAINER =
 {
-  ["MOD_FILENAME"] 			= "_CodenameAwesome.Animals.pak",     --the name of the pak created (if not combined) - REQUIRED
+  ["MOD_FILENAME"] 			= "VanillaTweaksAnimals-AnimalSizeVariationAndHerding.pak",     --the name of the pak created (if not combined) - REQUIRED
   ["MOD_DESCRIPTION"]		= "Adds variation to animal sizes and makes more animals behave as herds",         --optional, for reference
   ["MOD_AUTHOR"]				= "",         --optional, for reference
-  ["NMS_VERSION"]				= "2.0",     --optional, for reference
+  ["NMS_VERSION"]				= "3.0",     --optional, for reference
   ["MODIFICATIONS"] 		=             --REQUIRED SECTION
 	{
 		{
